@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mahmud-Aminu/G.git/static/css/main.012378a4.chunk.css",
+    "main.js": "/Mahmud-Aminu/G.git/static/js/main.f1a5e7a9.chunk.js",
+    "main.js.map": "/Mahmud-Aminu/G.git/static/js/main.f1a5e7a9.chunk.js.map",
+    "runtime-main.js": "/Mahmud-Aminu/G.git/static/js/runtime-main.7c5bffb6.js",
+    "runtime-main.js.map": "/Mahmud-Aminu/G.git/static/js/runtime-main.7c5bffb6.js.map",
+    "static/js/2.fa6546f3.chunk.js": "/Mahmud-Aminu/G.git/static/js/2.fa6546f3.chunk.js",
+    "static/js/2.fa6546f3.chunk.js.map": "/Mahmud-Aminu/G.git/static/js/2.fa6546f3.chunk.js.map",
+    "index.html": "/Mahmud-Aminu/G.git/index.html",
+    "static/css/main.012378a4.chunk.css.map": "/Mahmud-Aminu/G.git/static/css/main.012378a4.chunk.css.map",
+    "static/js/2.fa6546f3.chunk.js.LICENSE.txt": "/Mahmud-Aminu/G.git/static/js/2.fa6546f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c5bffb6.js",
+    "static/js/2.fa6546f3.chunk.js",
+    "static/css/main.012378a4.chunk.css",
+    "static/js/main.f1a5e7a9.chunk.js"
+  ]
+}
